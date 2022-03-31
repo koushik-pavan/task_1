@@ -1,1 +1,5 @@
-edited
+<<<<<<< HEAD
+content visible only in main branch
+=======
+edited in the branch newBranch
+>>>>>>> newBranch
